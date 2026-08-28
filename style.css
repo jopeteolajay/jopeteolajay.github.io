@@ -125,3 +125,14 @@ footer {
     padding: 30px;
     color: #64748b;
 }
+.quiz-images {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    max-width: 900px;
+}
+
+.quiz-images img {
+    width: 100%;
+    border-radius: 12px;
+}
